@@ -1,20 +1,21 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arberesha-hodolli.arberesha-hodolli" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arbreshahodolli.arbreshahodolli" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello!+👋;+I'm+Arberesha+Hodolli!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+👋;+I'm+Arberesha+Hodolli;" />
   </a>
 </h1>
 
-<h3 align="center">Software Developer & Trainer passionate about teaching and building projects 🚀</h3>
+<h3 align="center">Front-End Developer focused on modern web development</h3>
 
 <br />
 
 <div align="center">
 
-🎓 Trainer, teaching Web Development, Game Development, and Programming Fundamentals.  
-💻 Experienced with **C#, C++, Java, JavaFX, PHP, Laravel, MySQL, ReactJS, Unity, HTML, CSS, JS, Bootstrap**.  
-🌱 Interested in **Full-Stack Development** and creating **visual tools for algorithms**.  
+💻 Front-End Developer building responsive and user-friendly web applications.  
+⚡ Strong in **JavaScript (ES6+), HTML, CSS, SCSS**.  
+⚛️ Working with **React, Preact**, and modern UI development practices.  
+🛠️ Experience with **Git, Node.js, build tools, and component-based architecture**.  
 
 </div>
 
@@ -29,11 +30,11 @@
 
 <hr />
 
-<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br />
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwindcss,php,laravel,mysql,cpp,cs,java,unity,nodejs,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,preact,scss,bootstrap,nodejs,git,github,vscode,figma" />
   </a>
 </div>
 
@@ -45,21 +46,17 @@
 
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=arbreshahodolli&theme=react&border_radius=10" alt="streak stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=arbreshahodolli&theme=react&border_radius=10" />
 
-  <!-- GitHub Readme Stats -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=arbreshahodolli&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=arbreshahodolli&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 
 </div>
-
 
 <br/><br/>
 <hr />
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+stopping+by!+🙌;Keep+coding+and+keep+learning!+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Thanks+for+visiting!+🙌;Always+learning+and+building+🚀" />
   </a>
 </h3>
-
